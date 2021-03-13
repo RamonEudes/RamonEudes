@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RamonEudes
+- 👀 I’m interested in build my own app.
+- 🌱 I’m currently learning JS, TS, ReactJS and NodeJS.
+- 📫 ramoneudes@outlook.com
